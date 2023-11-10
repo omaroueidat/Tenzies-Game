@@ -1,0 +1,4 @@
+- CSS: Add dots to the die instead of numbers
+- Track the number of rolls the user had rolled
+- Track the time the user spent to complete the game
+- save the best scores to the local storage for the user to try to beat it.
